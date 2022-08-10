@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "124618722288",
+    "project_id": "demonotetaking",
+    "storage_bucket": "demonotetaking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124618722288:android:635d86c7c0a1355a806b35",
+        "android_client_info": {
+          "package_name": "com.crudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124618722288-6p51b36diglcocaf60t4of2ek7vris0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASYwj-z3vHxiQdh868MYftvF-An63uQR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124618722288-6p51b36diglcocaf60t4of2ek7vris0k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124618722288-kpbvoeqi2c1eov1j9t7sqn3udku3pr17.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.flutter.flutter.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124618722288:android:ada5d03a1df8b888806b35",
+        "android_client_info": {
+          "package_name": "com.example.flutter_skeleton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124618722288-6p51b36diglcocaf60t4of2ek7vris0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASYwj-z3vHxiQdh868MYftvF-An63uQR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124618722288-6p51b36diglcocaf60t4of2ek7vris0k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124618722288-kpbvoeqi2c1eov1j9t7sqn3udku3pr17.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.flutter.flutter.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124618722288:android:56bcc370aedfcd8d806b35",
+        "android_client_info": {
+          "package_name": "com.notetaking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124618722288-6p51b36diglcocaf60t4of2ek7vris0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASYwj-z3vHxiQdh868MYftvF-An63uQR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124618722288-6p51b36diglcocaf60t4of2ek7vris0k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124618722288-kpbvoeqi2c1eov1j9t7sqn3udku3pr17.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.flutter.flutter.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
